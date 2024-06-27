@@ -1,7 +1,9 @@
 This repository is part of my "100 Days of Code: The Complete Python Pro Bootcamp" by Angela Yu.
 
 In day 3, we were asked to create a "choose your own adventure" game.
+
 You are stranded on a desert island and your mission is to find the treasure.
+
 Will you survive and get the gold or perish? 
 
 What we learned with this example:
