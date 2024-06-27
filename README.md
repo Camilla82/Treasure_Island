@@ -7,10 +7,9 @@ You are stranded on a desert island and your mission is to find the treasure.
 Will you survive and get the gold or perish? 
 
 What we learned with this example:
-
-If statements
-Control flow with if/else and conditional operators
-Logical operators
-Multiple if statements in succession
+- If statements
+- Control flow with if/else and conditional operators
+- Logical operators
+- Multiple if statements in succession
 
 You can find the original course here: https://www.udemy.com/course/100-days-of-code/?couponCode=ST18MT62524.
